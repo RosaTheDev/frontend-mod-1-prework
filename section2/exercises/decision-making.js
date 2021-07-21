@@ -40,14 +40,19 @@ Questions
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
 
 2. What variable has a new value assigned to it after the first if statement executes?
+  - var bearClothing is the one that gets changed
 
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
+  - It would be a scarf
 
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
 
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
+  - "You run as fast as you can into the next room. It's full of snakes!"
 
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-
+  - "You tell the bear the hat is too small and it starts to cry!"
+  
 7. What is your favorite ending?
+ - my favorite ending is where you would stay with the bear and become its best friend
 */
