@@ -44,7 +44,7 @@ console.log(animals[4]);
 //-------------------
 
 // YOU DO: Declare a variable that will store an an array of at least 4 foods (strings)
-  const foods = ["Strawberry", "Rice", "Chicken", "Steak"];
+  var foods = ["Strawberry", "Rice", "Chicken", "Steak"];
   console.log(foods);
 
 // YOU DO: Write code below that will log the number of elements in the array of
